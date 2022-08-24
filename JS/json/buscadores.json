@@ -1,0 +1,148 @@
+[{
+    "id": 0,
+    "name": "campera Lloud Versace",
+    "price": 2345,
+    "img": "img/campera-ufo.png",
+    "cantidad": 1
+},
+{
+    "id": 1,
+    "name": "campera klark Oxford",
+    "price": 4323,
+    "img": "img/campera-cuero.png",
+    "cantidad": 1
+},
+{
+    "id": 2,
+    "name": "campera Toloure Valmur",
+    "price": 3234,
+    "img": "img/Campera-rosie.png",
+    "cantidad": 1
+},
+{
+    "id": 3,
+    "name": "saco gamuza L´perrier",
+    "price": 5246,
+    "img": "img/ropa-otono-mujer.jpg",
+    "cantidad": 1
+},
+{
+    "id": 4,
+    "name": "campera Baobab - Beige",
+    "price": 2999,
+    "img": "img/campera-mujer-pelos.png",
+    "cantidad": 1
+},
+{
+    "id": 5,
+    "name": "campera Emil Zaoré",
+    "price": 3595,
+    "img": "img/Campera-Emil.png",
+    "cantidad": 1
+},
+{
+    "id": 6,
+    "name": "remera authenticity PRO",
+    "price": 2499,
+    "img": "img/remera-authenticity.png",
+    "cantidad": 1
+},
+{
+    "id": 7,
+    "name": "remera musculosa DRAW",
+    "price": 2232,
+    "img": "/img/remera-muculosa.png",
+    "cantidad": 1
+},
+{
+    "id": 8,
+    "name": "remera originally",
+    "price": 3150,
+    "img": "img/remera-originally.png",
+    "cantidad": 1
+},
+{
+    "id": 9,
+    "name": "remera Star NewYork",
+    "price": 4634,
+    "img": "/img/remera-starNewYork.png",
+    "cantidad": 1
+},
+{
+    "id": 10,
+    "name": "remera UV protect",
+    "price": 2799,
+    "img": "img/remera-uvProtect.png",
+    "cantidad": 1
+},
+{
+    "id": 11,
+    "name": "remera violeta Veneccia",
+    "price": 3499,
+    "img": "/img/remera-violetaVeneccia.png",
+    "cantidad": 1
+},
+{
+    "id": 12,
+    "name": "jean skinny destroyed",
+    "price": 3499,
+    "img": "/img/SKINNY-JEANS-DESTROYED.png",
+    "cantidad": 1
+},
+{
+    "id": 13,
+    "name": "jean skinny con rasgones",
+    "price": 3499,
+    "img": "img/SUPER-SKINNY-RASGONES.png",
+    "cantidad": 1
+},
+{
+    "id": 14,
+    "name": "jean navallados",
+    "price": 3499,
+    "img": "/img/jean-navallado.png",
+    "cantidad": 1
+},
+{
+    "id": 15,
+    "name": "jean jaspeado",
+    "price": 3499,
+    "img": "/img/jean-jaspeado.png",
+    "cantidad": 1
+},
+{
+    "id": 16,
+    "name": "jean detroyed pants",
+    "price": 3499,
+    "img": "/img/detroyed-pants.png",
+    "cantidad": 1
+},
+{
+    "id": 17,
+    "name": "jean cropped",
+    "price": 3499,
+    "img": "/img/jean-cropped.png",
+    "cantidad": 1
+},
+{
+    "id": 18,
+    "name": "jean fem90 bell",
+    "price": 3499,
+    "img": "/img/jean-fem-90.png",
+    "cantidad": 1
+},
+{
+    "id": 19,
+    "name": "jean fem skinny",
+    "price": 3499,
+    "img": "/img/jean-fem-skinny.png",
+    "cantidad": 1
+},
+{
+    "id": 20,
+    "name": "jean fem high",
+    "price": 3499,
+    "img": "/img/jean-fem-tiroAlto.png",
+    "cantidad": 1
+}
+]
